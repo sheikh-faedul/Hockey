@@ -1,3 +1,23 @@
-.program-1{
+.programs{
+    height: 40rem;
+}
+.programs img{
+    width: 100%;
+}
+.program-1 {
     background-image: url(../Images/2.png);
+    
+    background-repeat: no-repeat;
+}
+
+.program-2 {
+    background-image: url(../Images/3.png);
+
+    background-repeat: no-repeat;
+}
+
+.program-3 {
+    background-image: url(../Images/4.png);
+
+    background-repeat: no-repeat;
 }
